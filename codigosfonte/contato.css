@@ -1,3 +1,6 @@
+////\/alteracao comentario
+
+
 #principal {
 	width:670px;
 	margin: 20px 10px 50px 50px;	
@@ -9,7 +12,7 @@
 	float:right;
 	margin-top:0;
 	margin-bottom:50px;
-	background:#fff url('../imagens/bg-auxiliar.jpg') repeat-x 0 0;
+	//\/Removibckgound;
 	min-height:500px;
 	}
 * html #auxiliar {
